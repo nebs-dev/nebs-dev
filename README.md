@@ -10,7 +10,7 @@ Alongside client work I build and ship my own products.
 
 **[kiroq](https://github.com/nebs-dev/kiroq)** is a deterministic, local-first CLI that audits what AI coding agents claim against actual repository evidence, and doubles as living project memory. ([npm](https://www.npmjs.com/package/kiroq))
 
-**[trebas.to](https://trebas.to)** is AI visibility infrastructure for local service businesses: structured discovery APIs, multi-tenancy, attribution tracking and MCP-facing tooling.
+**[istaknime.com](https://istaknime.com)** is AI visibility infrastructure for local service businesses: structured discovery APIs, multi-tenancy, attribution tracking and MCP-facing tooling.
 
 **[loadiq](https://github.com/nebs-dev/loadiq)** turns Garmin wearable data (steps, heart rate, sleep, activity load) into AI-assisted training and recovery insights.
 
